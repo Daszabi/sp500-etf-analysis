@@ -6,5 +6,3 @@ This repository contains a Python and SQL-based data pipeline designed to analyz
 - **Relational Database Integration:** Stores and queries raw financial data using a local SQLite database.
 - **Quantitative Analysis:** Uses pandas to calculate 50-day and 200-day moving averages.
 - **Data Visualization:** Generates trend and volatility charts using matplotlib.
-
-Note: The source code (etf_analysis.py) is fully functional. Further predictive modeling features are currently being implemented.
